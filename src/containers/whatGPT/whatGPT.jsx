@@ -1,11 +1,11 @@
 import React from 'react'
 import './hyatGPT3.css'
-const WhatGPT3 = () => {
+const WhatGPT = () => {
   return (
     <div>
-      WhatGPT3
- W  </div>
+      WhatGPT
+    </div>
   )
 }
 
-export default WhatGPT3
+export default WhatGPT
