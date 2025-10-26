@@ -1,7 +1,7 @@
 import React from 'react'
 import './brand.css'
 
-function Brand() {
+const Brand = () => {
   return (
     <div>
       Brand
